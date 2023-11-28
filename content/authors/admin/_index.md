@@ -116,8 +116,12 @@ highlight_name: true
 
 Truong X. Nghiem is an assistant professor in the School of Informatics, Computing, and Cyber Systems at Northern Arizona University.  His research interests include the integration of AI/machine learning, control, optimization, and computing for *intelligent cyber-physical systems*, to enable smart and autonomous systems in a wide range of applications.  He founded and leads the [Intelligent Control Systems (ICONS) Laboratory](https://nxtlab.org) at NAU.
 
+**Achievement highlights:**
+- He is a recipient of the **NSF Faculty Early Career Development (CAREER) Award** and Engineering Research Initiation (ERI) Award.
+- At NAU, since 2018, he has secured over **$10.8M in funding**, with $2.32M under direct management.
+- He has published over 50 peer-reviewed papers and been cited 1233 times with a combined h-index of 18. <!-- [Google Scholar](https://nxtlab.org). -->
+
 For more information on his research, publications, and academic achievements, please visit his [research lab website](https://nxtlab.org).
 {style="text-align: justify;"}
 
 <!-- , which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
-
