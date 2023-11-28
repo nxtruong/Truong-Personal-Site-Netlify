@@ -29,11 +29,12 @@ bio: My research interests include machine learning, control, intelligent cyber-
 
 # Interests to show in About widget
 interests:
-  - Machine Learning
-  - Control
-  - Optimization
-  - Cyber-physical Systems
-  - Smart & Autonomous Systems # , including smart buildings, smart grids, robots
+  - Control systems
+  - AI/Machine learning and control
+  - Cyber-physical systems
+  - Smart & autonomous systems # , including smart buildings, smart grids, robots
+  - Smart energy systems, robotics
+  - Security for cyber-physical systems
 
 # Education to show in About widget
 education:
