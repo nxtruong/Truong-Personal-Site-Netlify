@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Truong X. Nghiem
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Truong X.
+last_name: Nghiem
 
 # Status emoji
 status:
@@ -17,34 +17,33 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Electrical and Computer Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Northern Arizona University
+    url: https://nau.edu/school-of-informatics-computing-and-cyber-systems/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include machine learning, control, intelligent cyber-physical systems, and smart and autonomous systems.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Control
+  - Optimization
+  - Cyber-physical Systems
+  - Smart & Autonomous Systems # , including smart buildings, smart grids, robots
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Electrical & Systems Engineering
+      institution: University of Pennsylvania
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BEng in Automatic Control / Electrical Engineering
+      institution: Hanoi University of Science and Technology
+      year: 2003
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -94,31 +93,30 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: http://tinyurl.com/tnscholar
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/nxtruong
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/drtxn/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/Nghiem-CV.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Truong X. Nghiem is an assistant professor in the School of Informatics, Computing, and Cyber Systems at Northern Arizona University.  His research interests include the integration of AI/machine learning, control, optimization, and computing for *intelligent cyber-physical systems*, to enable smart and autonomous systems in a wide range of applications.  He founded and leads the [Intelligent Control Systems (ICONS) Laboratory](https://nxtlab.org) at NAU.
+
+For more information on his research, publications, and academic achievements, please visit his [research lab website](https://nxtlab.org).
 {style="text-align: justify;"}
+
+<!-- , which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
+
