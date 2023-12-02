@@ -121,7 +121,7 @@ Dr. Truong X. Nghiem is an Assistant Professor and Assistant Chair of Electrical
 - At NAU, since 2018, he has secured over **$10.8M in funding**, with $2.32M under direct management.
 - He has published over 50 peer-reviewed papers and been cited 1233 times with a combined h-index of 18. <!-- [Google Scholar](https://nxtlab.org). -->
 
-For more information on his research, publications, and academic achievements, please visit his [research lab website](https://nxtlab.org).
+For more information on his research, publications, and academic achievements, visit his [research lab website](https://nxtlab.org).
 {style="text-align: justify;"}
 
 <!-- , which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
