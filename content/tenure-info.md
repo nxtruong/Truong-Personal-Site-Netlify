@@ -4,13 +4,13 @@ title: Information for tenure review letters
 date: 2024-02-21
 ---
 
-# Basic documents
+## Basic documents
 - [Current academic CV](uploads/Nghiem-CV.pdf)
 - [Research statement (2024)](uploads/Nghiem-research.pdf)
 - [Teaching statement (2024)](uploads/Nghiem-teaching.pdf)
 
 
-# Promotion and tenure materials at Northern Arizona University
+## Promotion and tenure materials at Northern Arizona University
 
 These are the main statements included in my promotion and tenure packet at Northern Arizona University, slightly updated in February 2024.
 
