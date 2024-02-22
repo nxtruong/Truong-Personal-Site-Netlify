@@ -14,8 +14,8 @@ date: 2024-02-21
 
 These are the main statements included in my promotion and tenure packet at Northern Arizona University, slightly updated in February 2024.
 
-- [Overview statement (3 pages)](../uploads/tenure/tenure-overview.pdf): This helpful statement summarizes my main activities and achievements during my time at NAU (2018-present).
-<!-- - [Tenure review letter information](../uploads/tenure/Nghiem-tenure-letter-info.docx): This Word document also summarizes my main activities and achievements, but in the form of copiable sentences. -->
+- [**Tenure review letter highlights**](../uploads/tenure/Nghiem-tenure-letter-info.docx): This Word document summarizes my main activities and achievements in the form of copiable sentences.
+- [Overview statement (3 pages)](../uploads/tenure/tenure-overview.pdf): This statement summarizes my main activities and achievements during my time at NAU (2018-present).
 - [Scholarly activities statement (16 pages)](../uploads/tenure/tenure-research.pdf): This statement details my research activities and achievements during my time at NAU (2018-present).
 - [Student-related activities statement (19 pages)](../uploads/tenure/tenure-student-related.pdf): This statement details my student-related activities and achievements (teaching, mentorship, program development, etc.) during my time at NAU (2018-present).
 - [Service activities statement (8 pages)](../uploads/tenure/tenure-service.pdf): This statement details my service activities and achievements during my time at NAU (2018-present).
