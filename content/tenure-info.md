@@ -5,7 +5,7 @@ date: 2024-05-01
 ---
 
 ## Basic documents
-- [Current academic CV (2024-04-03)](../uploads/Nghiem-CV.pdf)
+- [Current academic CV (2024-05-01)](../uploads/Nghiem-CV.pdf)
 - [Research statement (2024)](../uploads/Nghiem-research.pdf)
 - [Teaching statement (2024)](../uploads/Nghiem-teaching.pdf)
 
